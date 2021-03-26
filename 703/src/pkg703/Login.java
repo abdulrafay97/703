@@ -29,6 +29,7 @@ public class Login extends javax.swing.JFrame {
     
     public Login() {
         initComponents();
+        System.out.println("HEY");
     }
     
     public boolean check() throws SQLException, ClassNotFoundException{
